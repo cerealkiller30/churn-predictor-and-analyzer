@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+No Churn,0.9712,0.9182,0.9439,110.0
+Churned,0.775,0.9118,0.8378,34.0
+accuracy,0.9167,0.9167,0.9167,0.9167
+macro avg,0.8731,0.915,0.8909,144.0
+weighted avg,0.9248,0.9167,0.9189,144.0
